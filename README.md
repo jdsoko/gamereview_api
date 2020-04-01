@@ -11,11 +11,17 @@
 
 ### Scripts:
 
-Start the application `npm start`
+Start the application 
 
-Start nodemon for the application `npm run dev`
+#### `npm start`
 
-Run the tests `npm test`
+Start nodemon for the application 
+
+#### `npm run dev`
+
+Run the tests 
+
+#### `npm test`
 
 ## Technologies Used:
 
