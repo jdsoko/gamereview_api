@@ -19,5 +19,5 @@ Run the tests `npm test`
 
 ## Technologies Used:
 
-### Node/Express/SQL
+### Node/Express/PostgreSQL
 
