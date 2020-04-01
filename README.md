@@ -4,7 +4,7 @@
 
 ## Summary:
 
-#### An express server that hosts an SQL database containing data for the [GameReview](https://gamereview.now.sh/) web app.
+#### An Express server that hosts an SQL database containing data for the [GameReview](https://gamereview.now.sh/) web app.
 
 
 
