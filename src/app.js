@@ -19,7 +19,7 @@ app.use(
 
 const allowedOrigins = [
   "http://localhost:3000",
-  "https://gamereview.vercel.app/",
+  "https://gamereview.vercel.app",
 ];
 
 app.use(helmet());
