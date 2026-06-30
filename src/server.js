@@ -6,9 +6,11 @@ const knex = require("knex");
 
 const db = knex({
   client: "pg",
-  connection: DATABASE_URL,
-  ssl: {
-    rejectUnauthorized: false,
+  connection: {
+    connectionString: DATABASE_URL,
+    ssl: {
+      rejectUnauthorized: false,
+    },
   },
 });
 
